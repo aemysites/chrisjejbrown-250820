@@ -1,0 +1,684 @@
+{
+  "originUrl": "https://ballhort.com",
+  "aborted": false,
+  "lastCrawled": "https://ballhort.com/",
+  "urls": [
+    {
+      "url": "https://www.ballhort.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "80163f82696d1060ee5b7189f6d41ee182330e34"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/",
+      "source": "SITEMAPS",
+      "targetPath": "/careers",
+      "id": "274029869d540f1d16f82f61cfd4e12ed05dbe81"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/Benefits/",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/benefits",
+      "id": "5d785f0dd48aecf58bbdbc20517f291e9ebd32f8"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/Internships/",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/internships",
+      "id": "f95664dd2a2bd055f960e1d8f072e3389e54f65f"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/Teams/",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/teams",
+      "id": "d167922b7ddd13e530c227ff3ff20acaa4463bbb"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/Teams/WeConnect.aspx",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/teams/weconnect-aspx",
+      "id": "b3a425a6fb62171c5032271404907bc09af1076d"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/Teams/WeCreate.aspx",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/teams/wecreate-aspx",
+      "id": "36e0728a23f8a55f99005ba32902245887943cd3"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/Teams/WeDeliver.aspx",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/teams/wedeliver-aspx",
+      "id": "3841e6fe63533a173b2cecd037b4e4e4db0f0bba"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/Teams/WeSupport.aspx",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/teams/wesupport-aspx",
+      "id": "770ab79b0177076dae268e8ec4004e700311d9ab"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/VisionValues/",
+      "source": "SITEMAPS",
+      "targetPath": "/careers/visionvalues",
+      "id": "5ba4a015d5c6a966d695f529d20345004af08ecc"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies",
+      "id": "056535e69a3f0775f95a1787b0633448421c3dfa"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/AGAAgro/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/agaagro",
+      "id": "92b5fb53f78f46587161b4958b5c995f0d569a16"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallAustralia/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballaustralia",
+      "id": "94fc971a6067722f160c3406b54617f7711fb190"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallCentury/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballcentury",
+      "id": "e0fd3b5ce0ba1a46c361342e49736e005e4af375"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallChile/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballchile",
+      "id": "250b69b0365fd507597b3b52915b16130ca3cbe3"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallColegrave/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballcolegrave",
+      "id": "24aa9e662ebc05a0fd68cb0deb7d33cc0476c642"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/ballcolorlink/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballcolorlink",
+      "id": "2e04e4b5cb1c6c288443ee3ff5ab66d6abf9ae89"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallFloraPlant/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballfloraplant",
+      "id": "63e7cee89e81ace8b9fb1318c79683ad43084154"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallHelix/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballhelix",
+      "id": "cf102aa606390629815f6ec88ff40e34737cb9e6"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallHorticulturaldoBrasil/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballhorticulturaldobrasil",
+      "id": "9d0d25c6a9c059a272476d5bf69cbc06c4b77e96"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallHuimei/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballhuimei",
+      "id": "9961e77c5bd1d97addeb50536312192bc78c639e"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallIngenuity/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballingenuity",
+      "id": "4067d0b4ba01a5f9bdaa3818857a1189adcf97da"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallPublishing/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballpublishing",
+      "id": "f98f225bb4c35999cf359e76323d97d1c68de5af"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallSB/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballsb",
+      "id": "b0f27aa8750cd757546117aecac7ba7c9355f127"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallSeed/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballseed",
+      "id": "36afaab96c4222914eded6e68e7f01fc0bb7fee0"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallStraathof/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballstraathof",
+      "id": "17c59fe8a5c41be3c87c7c935eb16f85f397dfc1"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallTagawaGrowers/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/balltagawagrowers",
+      "id": "f67c485d1c79b9e93f2919992dbed70e70b55d4e"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallYuemei/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballyuemei",
+      "id": "c830aca337f4e93579fc5bd01b8a3f838e734def"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallZhuomei/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ballzhuomei",
+      "id": "f90cd819bd9fed086353ce4a1a54ecf56ced4edb"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BiGiSeeds/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/bigiseeds",
+      "id": "37d0734031746f81790faa8b1f5bfaa9e64a309b"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BloomingPassion/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/bloomingpassion",
+      "id": "6bedbecca26652d3c7ee0fc84a7ee672998c5038"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BordonHillNurseries/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/bordonhillnurseries",
+      "id": "07a09d603aec71b7fd9172fd2291efa30a27d3d0"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/Burpee/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/burpee",
+      "id": "7483a6ce680009fb83238ad83d529223a212682f"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/CareerVision/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/careervision",
+      "id": "1cd31b56ea6898153c50a7bf707c7763ff6b8932"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/DarwinColombia/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/darwincolombia",
+      "id": "c33e2de62184825c96becab1fdbd9ae87353a36f"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/DarwinPerennials/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/darwinperennials",
+      "id": "756044c9383c596557b047bc4b6afb9b88bb227a"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/Ex-Plant/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/ex-plant",
+      "id": "a9c717bd155c96381c6e12119c0b78c208f4f716"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/Florensis/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/florensis",
+      "id": "36d8f4e8f7bd6e76797d4821812eafa06a0206c0"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/FlorensisUK/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/florensisuk",
+      "id": "bd77d3af42c1d5bc7fa5894b6147b4b87ea09376"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/Floricultura/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/floricultura",
+      "id": "fe3acf0bad2dc37be2cd6901714ee08a9269da81"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/KoreaAmericaSeedandSeedling/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/koreaamericaseedandseedling",
+      "id": "6479f0e82df37bd9ce08067bd2cbef4bf2f1606c"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/LasLimas/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/laslimas",
+      "id": "f589fa8c71f6eab193238bf2da1420b15318c6f4"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/LindaVista/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/lindavista",
+      "id": "c0f97eee16c3c790e3b2b8d9fb13aa543d87be21"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/MBFlora/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/mbflora",
+      "id": "34f86e4bafe141823bb488e326dd225305a462fc"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/NovoSolPlantas/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/novosolplantas",
+      "id": "ecf90c40218c7f31cc9d32661e0fc976d59ae702"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/OitaBall/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/oitaball",
+      "id": "b6517aa7719a692ab3a2f02c31cbcf1492eed452"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/PanAmericanChina-Kunming/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/panamericanchina-kunming",
+      "id": "34744a11c5234934b4876cff80a900b0bb0acabc"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/PanAmericanSeed/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/panamericanseed",
+      "id": "13d7fcc0136a12d48b98f3958173dbb02914c1cf"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/SeedTechnologyServices/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/seedtechnologyservices",
+      "id": "5a25b888eac2dc1f1fe4037d907a8f09bfc0c542"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/SemillasPanAmerican/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/semillaspanamerican",
+      "id": "a99dd32af4adf99dd6e17da332e70955c568a659"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/SodsaiLanna/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/sodsailanna",
+      "id": "1224004fb7412b2cea99e02428e1ab230c8b04f4"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/StarRosesandPlants/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/starrosesandplants",
+      "id": "b42b217e24cb5d1a53894c7d7a69fd06663d270f"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/ToscanaBreeding/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/toscanabreeding",
+      "id": "73709f5e6d102964cd5dc43254a3afb2607d347f"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/Wave/",
+      "source": "SITEMAPS",
+      "targetPath": "/companies/wave",
+      "id": "f43e330fb9a54b0bff4dc90f52fbb8f88e3dec66"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/",
+      "source": "SITEMAPS",
+      "targetPath": "/contactus",
+      "id": "2d2fbb0500e0887262a16f66a1e27dfbc40609b2"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/Africa/",
+      "source": "SITEMAPS",
+      "targetPath": "/contactus/africa",
+      "id": "5b65081ea39bf1d540203fb40676ce2ab45d792a"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/Asia/",
+      "source": "SITEMAPS",
+      "targetPath": "/contactus/asia",
+      "id": "bfc8911feaeb2547dfaf7a2e7c5d6a22db10782b"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/Europe/",
+      "source": "SITEMAPS",
+      "targetPath": "/contactus/europe",
+      "id": "ae13aedd5d3b518025506768a6c88e519a6d611f"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/NorthAmerica/",
+      "source": "SITEMAPS",
+      "targetPath": "/contactus/northamerica",
+      "id": "3e2e19b262870a142d891d1563e544b329298748"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/Oceania/",
+      "source": "SITEMAPS",
+      "targetPath": "/contactus/oceania",
+      "id": "a4ea71b4a60ab686d3debdb0457cbb4379c1bad3"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/SouthAmerica/",
+      "source": "SITEMAPS",
+      "targetPath": "/contactus/southamerica",
+      "id": "8dee6f57b09027e3f5715b3a94dac9c35e84dc4c"
+    },
+    {
+      "url": "https://www.ballhort.com/FAQ/",
+      "source": "SITEMAPS",
+      "targetPath": "/faq",
+      "id": "9c080667e57d2552f01751e5aeffdf2cff3e410f"
+    },
+    {
+      "url": "https://www.ballhort.com/Legal/PrivacyPolicy/",
+      "source": "SITEMAPS",
+      "targetPath": "/legal/privacypolicy",
+      "id": "2647c40d48a5a7e8266877c43292b9c4fbecef7c"
+    },
+    {
+      "url": "https://www.ballhort.com/Legal/TermsOfUse/",
+      "source": "SITEMAPS",
+      "targetPath": "/legal/termsofuse",
+      "id": "810049c211d707edc6c34aaba654cb2829d00623"
+    },
+    {
+      "url": "https://www.ballhort.com/Media/",
+      "source": "SITEMAPS",
+      "targetPath": "/media",
+      "id": "63aad2a96e86bcb043b2f2a5f1e3709f2275bbc6"
+    },
+    {
+      "url": "https://www.ballhort.com/Media/Events/",
+      "source": "SITEMAPS",
+      "targetPath": "/media/events",
+      "id": "f93d06d7eff0815b52a58152322160fccb33acce"
+    },
+    {
+      "url": "https://www.ballhort.com/Media/Press/",
+      "source": "SITEMAPS",
+      "targetPath": "/media/press",
+      "id": "4dfee21fcbbbc08791907cfdb92b44924cab1338"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.ballhort.com/Careers",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Careers/"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/Benefits",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Careers/Benefits/"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/Internships",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Careers/Internships/"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/Teams",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Careers/Teams/"
+    },
+    {
+      "url": "https://www.ballhort.com/Careers/VisionValues",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Careers/VisionValues/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/AGAAgro",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/AGAAgro/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallAustralia",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallAustralia/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallCentury",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallCentury/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallChile",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallChile/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallColegrave",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallColegrave/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallFloraPlant",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallFloraPlant/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallHelix",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallHelix/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallHorticulturaldoBrasil",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallHorticulturaldoBrasil/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallHuimei",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallHuimei/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallIngenuity",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallIngenuity/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallPublishing",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallPublishing/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallSB",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallSB/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallSeed",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallSeed/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallStraathof",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallStraathof/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallTagawaGrowers",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallTagawaGrowers/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallYuemei",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallYuemei/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BallZhuomei",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BallZhuomei/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BiGiSeeds",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BiGiSeeds/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BloomingPassion",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BloomingPassion/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BordonHillNurseries",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/BordonHillNurseries/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/Burpee",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/Burpee/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/CareerVision",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/CareerVision/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/DarwinColombia",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/DarwinColombia/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/DarwinPerennials",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/DarwinPerennials/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/Ex-Plant",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/Ex-Plant/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/Florensis",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/Florensis/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/FlorensisUK",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/FlorensisUK/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/Floricultura",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/Floricultura/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/KoreaAmericaSeedandSeedling",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/KoreaAmericaSeedandSeedling/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/LasLimas",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/LasLimas/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/LindaVista",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/LindaVista/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/MBFlora",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/MBFlora/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/NovoSolPlantas",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/NovoSolPlantas/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/OitaBall",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/OitaBall/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/PanAmericanChina-Kunming",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/PanAmericanChina-Kunming/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/PanAmericanSeed",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/PanAmericanSeed/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/SeedTechnologyServices",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/SeedTechnologyServices/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/SemillasPanAmerican",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/SemillasPanAmerican/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/SodsaiLanna",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/SodsaiLanna/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/StarRosesandPlants",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/StarRosesandPlants/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/ToscanaBreeding",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/ToscanaBreeding/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/Wave",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Companies/Wave/"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/ContactUs/"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/Africa",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/ContactUs/Africa/"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/Asia",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/ContactUs/Asia/"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/Europe",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/ContactUs/Europe/"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/NorthAmerica",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/ContactUs/NorthAmerica/"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/Oceania",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/ContactUs/Oceania/"
+    },
+    {
+      "url": "https://www.ballhort.com/ContactUs/SouthAmerica",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/ContactUs/SouthAmerica/"
+    },
+    {
+      "url": "https://www.ballhort.com/FAQ",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/FAQ/"
+    },
+    {
+      "url": "https://www.ballhort.com/Legal/PrivacyPolicy",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Legal/PrivacyPolicy/"
+    },
+    {
+      "url": "https://www.ballhort.com/Legal/TermsOfUse",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Legal/TermsOfUse/"
+    },
+    {
+      "url": "https://www.ballhort.com/Media",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Media/"
+    },
+    {
+      "url": "https://www.ballhort.com/Media/Events",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Media/Events/"
+    },
+    {
+      "url": "https://www.ballhort.com/Media/Press",
+      "status": "301 Moved Permanently Redirect: https://www.ballhort.com/Media/Press/"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BloomStudios",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/GrowIt!",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/GrowIt!/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.ballhort.com/Companies/BloomStudios/",
+      "status": "404 Not Found"
+    }
+  ]
+}
