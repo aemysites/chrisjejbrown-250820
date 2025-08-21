@@ -1,0 +1,805 @@
+{
+  "originUrl": "https://www.averydennison.com",
+  "aborted": false,
+  "lastCrawled": "https://www.averydennison.com/en/home.html",
+  "urls": [
+    {
+      "url": "https://www.averydennison.com/en/home.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home",
+      "id": "7baaa8557c1501aed2c5aaf5f92c8da70b1f0a64"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/early-career-opportunities.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/early-career-opportunities",
+      "id": "da736f996c3ea16128f588118d70f6664c5e4d93"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/early-career-opportunities/asia-pacific.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/early-career-opportunities/asia-pacific",
+      "id": "7b98cbc41f8ab9166e6f3f653c55e9126b65ec93"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/early-career-opportunities/europe.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/early-career-opportunities/europe",
+      "id": "a91e4eb4dacd5aa22c3cd6846738bdb58d0fa045"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/early-career-opportunities/global.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/early-career-opportunities/global",
+      "id": "03618125cc53ae1b4e9b72b15c278bc4737d1e74"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/early-career-opportunities/north-america.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/early-career-opportunities/north-america",
+      "id": "e0f273215714790eb6e3f6c47064853338847c2e"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/andre-salmazzo.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/andre-salmazzo",
+      "id": "ace3178f3e00b3d963f8f23a6c4200ce8579314c"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/andrea-gissi.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/andrea-gissi",
+      "id": "9cfd3116f78550b2e534c7758eb5ad3a9fe7e55f"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/claudia-mariconda.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/claudia-mariconda",
+      "id": "174851149f2442088f85da6a10b1348cef5502a1"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/femke-zijlstra.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/femke-zijlstra",
+      "id": "de29bd23c1d41cc1de60b66210501c4a807faa4a"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/ioanna-georgiou.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/ioanna-georgiou",
+      "id": "ddd9f3a8db36e745a3252cae2dfe0cbd0b3f28d6"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/jolanta-wojciechowska.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/jolanta-wojciechowska",
+      "id": "6fe36d589ec65479898e2adbff3176154afe580b"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/jonas-janiunas.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/jonas-janiunas",
+      "id": "202a5e3b480588a405113540c39eea2084b3d8b3"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/krisakorn-rerkrai.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/krisakorn-rerkrai",
+      "id": "6c99f226c9cdf0b12f858edf2d8b6cf9f820ab33"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/marie-brochenin.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/marie-brochenin",
+      "id": "de1e7d6614119bac625ffbd649e872a2d63a6ace"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/michael-bruon.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/michael-bruon",
+      "id": "2b6cc1bd15b1fab92787a0d3ca3ad4b7199bd8e1"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/mutlu-cavusoglu.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/mutlu-cavusoglu",
+      "id": "a8b3a6c569c0e07b67d2bd9b545c043a14eaf628"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/paul-dunn.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/paul-dunn",
+      "id": "74499d9da81083c5e6b37d2124dbf56d2aee0e1b"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/sanaa-iqbal.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/sanaa-iqbal",
+      "id": "340ceec7797a75f66754d58e6d0927b290196a09"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/employee-stories/sheila-yanes.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/employee-stories/sheila-yanes",
+      "id": "b73ab4720ac46c07ff3d9082be191c1d69a36064"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/life-at-ad.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/life-at-ad",
+      "id": "9dc394fd7f0939b492c3665d6a52fdad2eec1924"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/overview.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/overview",
+      "id": "55a2d1273dd1411d98de7ec7646ba4337ee7268f"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/search-jobs.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/search-jobs",
+      "id": "0dfd3b839430b2cefd17875d5ae3c5360f64cd58"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/search-jobs/recruitment-fraud-disclaimer.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/search-jobs/recruitment-fraud-disclaimer",
+      "id": "03bf711c2f3f74e3dfb43210369b4e242dc35ebc"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/careers/talent-community.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/careers/talent-community",
+      "id": "5cd70bd9e2bd18c76e62568366d5c2b197669924"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/avery-dennison-foundation.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/avery-dennison-foundation",
+      "id": "e592573653e3ca125b65576fa471892bdc7b1bbb"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/avery-dennison-foundation/corporate-social-responsibility-report.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/avery-dennison-foundation/corporate-social-responsibility-report",
+      "id": "e19e0ac3a7e85d567d2b9c3ee29a0f243a9b4f49"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/avery-dennison-foundation/grantmaking.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/avery-dennison-foundation/grantmaking",
+      "id": "a1e51bf9feb63c11f8eff03082b0372c38d3ee3a"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/corporate-venture-capital-program.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/corporate-venture-capital-program",
+      "id": "7f09645475783c6f75ce378297103f8c9872c672"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/corporate-venture-capital-program/portfolio-in-the-news.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/corporate-venture-capital-program/portfolio-in-the-news",
+      "id": "2fc03b202c5a252317d9cf773ad4f8db8b30579e"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/diversity-equity-inclusion.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/diversity-equity-inclusion",
+      "id": "9e06190bb2131d19cedf7ccb0c81a298fcbb1068"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-history.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-history",
+      "id": "d7d8beb960c97d55fab797360fff630d64f42d92"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership",
+      "id": "10cabb50b85315468a354a9b48a16d63ac3ba14a"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/anil-sharma.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/anil-sharma",
+      "id": "803a00bf78f9fdb920baace770d1d349ad291297"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/danny-allouche.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/danny-allouche",
+      "id": "d852950cd23dbe4b0d9c23a01aa6530c92bc16f5"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/deena-baker-nel.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/deena-baker-nel",
+      "id": "4fc9d8808dbd52543d5e36b2dc8d11bd382fc57a"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/deon-stander.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/deon-stander",
+      "id": "28612f00dd94dcc89c2868ee4038fb700bffbed6"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/francisco-melo.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/francisco-melo",
+      "id": "6f13b8e612afb4d300c108672e6081b2741ad863"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/greg-lovins.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/greg-lovins",
+      "id": "c56e24f7f12fdd0cd381db550b8816137bfd519b"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/ignacio-walker.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/ignacio-walker",
+      "id": "a6892818cb43e03a86656fd4d691a10fddcbd8ba"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/isabela-galli.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/isabela-galli",
+      "id": "c60f201277734bfb28bf35462e36add0d859dc9a"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/john-lawlor.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/john-lawlor",
+      "id": "7ff066f38266c07b0e19649bab8bdf364597c52b"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/johnny-gao.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/johnny-gao",
+      "id": "2071c63dbd38981e0de204a8704e539749b381c7"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/julie-vargas.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/julie-vargas",
+      "id": "a0760edbc78e97e938abbae78fc145ea03c39f62"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/michael-barton.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/michael-barton",
+      "id": "e69609bada8ddb2b31f1f6b912fdd8af0add0e51"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/michael-colarossi.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/michael-colarossi",
+      "id": "0f75432962d6fc495dca71be7d9fa3f1416e3a3b"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/ned-peverley.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/ned-peverley",
+      "id": "48bae04031d8eec3688bc54aeb1ffb1bec80b07e"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/nick-colisto.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/nick-colisto",
+      "id": "0cc3b18cf5625ffc930d51dcb011045eb56fc35b"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/pankaj-bhardwaj.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/pankaj-bhardwaj",
+      "id": "a004c0d757604e6c7666ffcecebc87acb3c96ca2"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/pascale-wautelet.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/pascale-wautelet",
+      "id": "2498b1957308d34519cc4427fe3f95035b989e50"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/our-leadership/ryan-yost.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/our-leadership/ryan-yost",
+      "id": "8775023d86a19e5d07cac2f9f4e89a17cd12fb71"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/overview.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/overview",
+      "id": "91619296a4d6e0b5cc0fc6506f2fff29dc91a12b"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/reports.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/reports",
+      "id": "27825aff5d98325ea6d23ae29d248c8881e41abf"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/reports/integrated-report.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/reports/integrated-report",
+      "id": "dae01981cbcdc8f0c7d75a878221a4c0c2bf060e"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/values.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/company/values",
+      "id": "332c7996e27c3f9adbc7d16dd20a867e524166de"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/contact-us.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/contact-us",
+      "id": "31d3dba122fbde9653469bfeac6221557d6aa2fd"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/contact-us/business-conduct-guideline-directory.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/contact-us/business-conduct-guideline-directory",
+      "id": "ca32b4dbcbbb52edf5bec2b8d302b3d041aa5a1c"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/global-website-directory.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/global-website-directory",
+      "id": "50d76c5bef7aba046377d93dfe1b9dd3a0744b79"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/advertising.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/advertising",
+      "id": "44bbe07532672244f75c0661b5d8b49d6e592ad8"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/apparel-branding-and-solutions.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/apparel-branding-and-solutions",
+      "id": "48bcf51b3d6bbe093e34c1c3c9ff9f94d99a8abb"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/automotive.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/automotive",
+      "id": "fad421062f5fa21ccbdeeecbb05a47af4b847b78"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/building-and-construction.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/building-and-construction",
+      "id": "057dac0d584910c008737e60434482da800dd260"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/consumer-packaged-goods.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/consumer-packaged-goods",
+      "id": "6a87b47ca05c962f26bb2bfabd7dc5959e302c8f"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/durable-goods-and-equipment-labels.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/durable-goods-and-equipment-labels",
+      "id": "d3eee02661bf69e81807b3d851be670df77eb9d5"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/electronics-and-electrical.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/electronics-and-electrical",
+      "id": "b904794b2ebe16291d023e556868d528ca9fa3da"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/food.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/food",
+      "id": "377d43ae0edc00c74aff05235f3a236766f3710d"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/government.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/government",
+      "id": "f1164ac7922e59e57a7a0caf2e64f47940a15043"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/logistics.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/logistics",
+      "id": "9d53c7f19a1eed2840a9ab93f767da539f8b3ca5"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/medical-and-healthcare.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/medical-and-healthcare",
+      "id": "72782f39fb3eab67bf18db9c2fbbd178cb5cc227"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/retail.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/retail",
+      "id": "a245ef229e887619556afb69907ef86b120c1cb4"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/rfid.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/rfid",
+      "id": "17aedcc2c6975fc6f3b9e2df18a878efc3a98068"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/supply-chain.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/supply-chain",
+      "id": "ac082afeacbb623575db3fef4193949b721bc7f5"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/industries/transportation.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/industries/transportation",
+      "id": "dd585c0004b0d943fdc586d475316e88d13d816d"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/making-possible.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/making-possible",
+      "id": "dcdf71aae66c44071d92070de3330a8dbdeb34af"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog",
+      "id": "15ae5761391a857f40589399f150ce8fcb2d8e83"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/adf-action-against-hunger.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/adf-action-against-hunger",
+      "id": "b39f62bf53190c2e062bff3f59b9ca77ba79b024"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/adf-celebrates-pride-and-partners-making-a-difference.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/adf-celebrates-pride-and-partners-making-a-difference",
+      "id": "b2cdd2afcc8dc041b2915904ee157b69725686e8"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/adf-grantee-global-fund-for-children.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/adf-grantee-global-fund-for-children",
+      "id": "4e11dfaf3f8016a25ef7910c239ac1b0f20b38d7"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/adf-scholars-spotlight-august-2024.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/adf-scholars-spotlight-august-2024",
+      "id": "c9006844d402d0815b05b5eb32b54b78a08aed84"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/avery-dennison-and-employees-lend-a-hand-to-ukraine.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/avery-dennison-and-employees-lend-a-hand-to-ukraine",
+      "id": "d733aa2792028c252a3620499734a59257e6c6c9"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/avery-dennison-foundation-celebrates-international-womens-day.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/avery-dennison-foundation-celebrates-international-womens-day",
+      "id": "8364e09f507bc713afab2993e64189d50e66b80d"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/avery-dennison-foundation-helps-kids-of-employees-achieve-their-dreams-of-higher-education.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/avery-dennison-foundation-helps-kids-of-employees-achieve-their-dreams-of-higher-education",
+      "id": "b66c34f9886d25476b1a109b81357d11a7bf0c80"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/avery-dennison-foundation-shares-new-strategy-address-global-challenges.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/avery-dennison-foundation-shares-new-strategy-address-global-challenges",
+      "id": "8dd28ad1dcccb2ad8eacbbeb870070e3d031b026"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/avery-dennison-north-america-sites-raise-over-500k-for-united-way.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/avery-dennison-north-america-sites-raise-over-500k-for-united-way",
+      "id": "8777a83e4f16dd3e52cde70cc6a1cb3bf465d60d"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/building-markets-an-adf-grantee.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/building-markets-an-adf-grantee",
+      "id": "83e453a60cd7f85b451dd096c1765f25430af61f"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/celebrating-earth-day-with-global-forest-generation.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/celebrating-earth-day-with-global-forest-generation",
+      "id": "c7ee22769950e0c381bd7d17e22031194ee897db"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/celebrating-hispanic-heritage-month.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/celebrating-hispanic-heritage-month",
+      "id": "f5ecb0f5d3420fda81b7e0a17bd92222d3af37f1"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/celebrating-the-2024-avery-dennison-foundation-leadership-excellence-awardees.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/celebrating-the-2024-avery-dennison-foundation-leadership-excellence-awardees",
+      "id": "2071b7858f78d3ac5475938b889381f792a7e2c3"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/global-impact-for-iwd.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/global-impact-for-iwd",
+      "id": "d3e48e7f7cd48a82b0006788da2a17dd8638fc11"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/global-pride-initiatives-adf.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/global-pride-initiatives-adf",
+      "id": "0dc32de4e5c11f835b525bf7e7569c9a47cdc3df"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/inventing-the-future.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/inventing-the-future",
+      "id": "044f26e76b7304ab8c60618ae4bb9b1f01af54f6"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/company-blog/what-would-stan-think-90-years-of-avery-dennison.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/company-blog/what-would-stan-think-90-years-of-avery-dennison",
+      "id": "375fd11adc5f80a69f39b2aadb0e2afe056916b8"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/leadership-perspectives.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/leadership-perspectives",
+      "id": "5b9b8dfa9ee2fe8626b98a6786d84d310e8fa884"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/leadership-perspectives/nick-colisto/engineering-leadership-from-within.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/leadership-perspectives/nick-colisto/engineering-leadership-from-within",
+      "id": "faff8860b539bed6be27c9cd9aa9960d1c2722bf"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/press-releases.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/press-releases",
+      "id": "5e76fbeccceb68eece54d0b1cdb43bab2e847b5c"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/press-releases/avery-dennison-announces-q2-2025-results.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/press-releases/avery-dennison-announces-q2-2025-results",
+      "id": "3f83c399d5942518dbbb04e1a98aaec94a994c4e"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/news/press-releases/avery-dennison-invests-in-series-b-funding-of-3d-current-collectors-manufacturer-addionics.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/news/press-releases/avery-dennison-invests-in-series-b-funding-of-3d-current-collectors-manufacturer-addionics",
+      "id": "64a5faafb1750508170376b7f8acf95dc01c0441"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/technologies/core-capabilities.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/technologies/core-capabilities",
+      "id": "d95db2b3a213aa321239a33aefb33c7376c6d8a0"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/technologies/emerging-technologies.html",
+      "source": "CRAWL",
+      "targetPath": "/en/home/technologies/emerging-technologies",
+      "id": "0fed61d0c38d510bb3ec0c7a5e7a43c47eaa8930"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/andre-salmazzo.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/andre-salmazzo.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/andrea-gissi.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/andrea-gissi.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/claudia-mariconda.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/claudia-mariconda.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/femke-zijlstra.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/femke-zijlstra.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/ioanna-georgiou.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/ioanna-georgiou.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/jolanta-wojciechowska.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/jolanta-wojciechowska.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/jonas-janiunas.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/jonas-janiunas.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/krisakorn-rerkrai.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/krisakorn-rerkrai.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/marie-brochenin.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/marie-brochenin.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/michael-bruon.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/michael-bruon.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/mutlu-cavusoglu.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/mutlu-cavusoglu.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/paul-dunn.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/paul-dunn.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/sanaa-iqbal.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/sanaa-iqbal.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/careers/employee-stories/sheila-yanes.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/careers/employee-stories/sheila-yanes.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/contact-us.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/contact-us.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/cookie-policy.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/cookie-policy.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/cybersecurity.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/cybersecurity.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/gdpr.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/gdpr.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/legal-and-privacy-notices.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/legal-and-privacy-notices.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/adf-action-against-hunger.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/adf-action-against-hunger.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/adf-celebrates-pride-and-partners-making-a-difference.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/adf-celebrates-pride-and-partners-making-a-difference.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/adf-grantee-global-fund-for-children.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/adf-grantee-global-fund-for-children.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/adf-scholars-spotlight-august-2024.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/adf-scholars-spotlight-august-2024.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/avery-dennison-and-employees-lend-a-hand-to-ukraine.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/avery-dennison-and-employees-lend-a-hand-to-ukraine.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/avery-dennison-foundation-celebrates-international-womens-day.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/avery-dennison-foundation-celebrates-international-womens-day.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/avery-dennison-foundation-helps-kids-of-employees-achieve-their-dreams-of-higher-education.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/avery-dennison-foundation-helps-kids-of-employees-achieve-their-dreams-of-higher-education.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/avery-dennison-foundation-shares-new-strategy-address-global-challenges.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/avery-dennison-foundation-shares-new-strategy-address-global-challenges.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/avery-dennison-north-america-sites-raise-over-500k-for-united-way.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/avery-dennison-north-america-sites-raise-over-500k-for-united-way.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/building-markets-an-adf-grantee.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/building-markets-an-adf-grantee.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/celebrating-25-years-in-india.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/celebrating-25-years-in-india.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/celebrating-earth-day-with-global-forest-generation.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/celebrating-earth-day-with-global-forest-generation.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/celebrating-hispanic-heritage-month.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/celebrating-hispanic-heritage-month.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/celebrating-the-2024-avery-dennison-foundation-leadership-excellence-awardees.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/celebrating-the-2024-avery-dennison-foundation-leadership-excellence-awardees.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/global-impact-for-iwd.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/global-impact-for-iwd.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/company-blog/global-pride-initiatives-adf.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/company-blog/global-pride-initiatives-adf.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/leadership-perspectives/nick-colisto/engineering-leadership-from-within.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/leadership-perspectives/nick-colisto/engineering-leadership-from-within.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/corp/na/en/home/news/press-releases/avery-dennison-announces-q2-2025-results.html",
+      "status": "301 Moved Permanently Redirect: http://www.averydennison.com/en/home/news/press-releases/avery-dennison-announces-q2-2025-results.html"
+    },
+    {
+      "url": "https://www.averydennison.com/zh/home.html",
+      "status": "301 Moved Permanently Redirect: https://www.averydennison.com/en/home.html"
+    },
+    {
+      "url": "https://www.averydennison.com/zh-hant/home.html",
+      "status": "301 Moved Permanently Redirect: https://www.averydennison.com/en/home.html"
+    },
+    {
+      "url": "https://www.averydennison.com/nl/home.html",
+      "status": "301 Moved Permanently Redirect: https://www.averydennison.com/en/home.html"
+    },
+    {
+      "url": "https://www.averydennison.com/de/home.html",
+      "status": "301 Moved Permanently Redirect: https://www.averydennison.com/en/home.html"
+    },
+    {
+      "url": "https://www.averydennison.com/fr/home.html",
+      "status": "301 Moved Permanently Redirect: https://www.averydennison.com/en/home.html"
+    },
+    {
+      "url": "https://www.averydennison.com/pt/home.html",
+      "status": "301 Moved Permanently Redirect: https://www.averydennison.com/en/home.html"
+    },
+    {
+      "url": "https://www.averydennison.com/es/home.html",
+      "status": "301 Moved Permanently Redirect: https://www.averydennison.com/en/home.html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/rbis/newness/en/newness.html",
+      "status": "302 Moved Temporarily Redirect: https://explore.averydennison.com/newness/p/1"
+    },
+    {
+      "url": "https://www.averydennison.com/en/home/company/avery-dennison-foundation/_jcr_content/parsys_main/column_control_copy__861110957/item0/parsys_column/column_control_copy__308524342/item0/parsys_column/list.feed",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.averydennison.com/content/dam/avery_dennison/corporate-new/global/english/documents/corporate-governance/Avery-Dennison_AF2023_Raportul-privind-informatiile-referitoare-la-impozitul-pe-profit_RO.xlsx",
+      "status": "content type is not text/html"
+    }
+  ]
+}
