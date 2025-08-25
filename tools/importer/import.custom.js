@@ -38,8 +38,7 @@ export const customElements = [];
  * Custom transformers
  */
 export const customTransformers = {
-        // remove left navigation, header, and footer elements if present
-      ['div.globalheader', 'header.header', 'footer.footer'].forEach((selector) => {
+      ['.centerContainer', 'footer-redesign'].forEach((selector) => {
         document.querySelectorAll(selector).forEach((el) => el.remove());
       });
 };
