@@ -40,5 +40,5 @@ export const customElements = [];
 export const customTransformers = {
       ['.centerContainer', 'footer-redesign'].forEach((selector) => {
         document.querySelectorAll(selector).forEach((el) => el.remove());
-      });
+      })
 };
