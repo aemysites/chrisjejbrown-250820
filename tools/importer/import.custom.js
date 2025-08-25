@@ -38,7 +38,7 @@ export const customElements = [];
  * Custom transformers
  */
 export const customTransformers = {
-      ['.centerContainer', 'footer-redesign'].forEach((selector) => {
+      ['.centerContainer', 'footer'].forEach((selector) => {
         document.querySelectorAll(selector).forEach((el) => el.remove());
       })
 };
