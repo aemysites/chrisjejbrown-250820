@@ -37,8 +37,13 @@ export const customElements = [];
 /**
  * Custom transformers
  */
-export const customTransformers = {
+export const customTransformers = { 
+  inject: (hookName, element, { document }) => {
+    if (hookName === 'beforeTransform') {
+
+      // remove left navigation, header, and footer elements if present
       ['.centerContainer', 'footer'].forEach((selector) => {
         document.querySelectorAll(selector).forEach((el) => el.remove());
-      })
-};
+      });
+  }}
+}
